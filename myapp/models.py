@@ -2,8 +2,8 @@ from sqlalchemy import Column, Integer, Float, String
 from .db import Base
 
 
-# creatiing table for database 
-# Initilizing all the coulmn in database with validation 
+# creating table for database 
+# Initializing all the column in database with validation 
 
 class Address(Base):
     __tablename__ = "addresstable"

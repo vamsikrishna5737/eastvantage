@@ -1,0 +1,6 @@
+2022-06-26 19:08:01,387 - INFO - myapp.main - Start of main program.
+2022-06-26 19:09:44,198 - INFO - myapp.main - Connecting to database.
+2022-06-26 19:09:44,200 - INFO - myapp.main - Adding address
+2022-06-26 19:09:44,200 - INFO - myapp.main - Name:"chinnu" from city: "vizianagaram" which is in state: "andhrapradesh"   
+2022-06-26 19:09:45,199 - INFO - myapp.main - Getting coordinates of name: "chinnu" with longitude: "83.30894" and latitude: "18.61927"
+2022-06-26 19:09:45,220 - INFO - myapp.main - added address to database table
